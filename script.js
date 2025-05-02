@@ -5,7 +5,7 @@ $(document).ready(function() {
 
         $('.thumb').removeClass('active');
         $(this).addClass('active');
-        
+
         let newImg = $(this).data('img');
         let newTitle = $(this).data('title');
         let newScore = $(this).data('score');
