@@ -5,12 +5,12 @@ body {
 
 @font-face {
     font-family: bold;
-    src: url(../font/fedra\ arabic.ttf);
+    src: url(fedra\ arabic.ttf);
 }
 
 @font-face {
     font-family: all;
-    src: url(../font/Vazir-Medium.ttf);
+    src: url(Vazir-Medium.ttf);
 }
 
 .bga {
